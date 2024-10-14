@@ -1,2 +1,2 @@
 # Logistica
-crate a logistic system of own model
+create a logistic system of own model
